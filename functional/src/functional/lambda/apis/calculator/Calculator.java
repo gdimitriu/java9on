@@ -1,4 +1,4 @@
-package functional.lambda.apis.functional.lambda.apis.calculator;
+package functional.lambda.apis.calculator;
 
 @FunctionalInterface
 public interface Calculator {

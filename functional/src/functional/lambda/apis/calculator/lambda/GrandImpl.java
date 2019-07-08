@@ -1,6 +1,6 @@
-package functional.lambda.apis.functional.lambda.apis.calculator.lambda;
+package functional.lambda.apis.calculator.lambda;
 
-import functional.lambda.apis.functional.lambda.apis.calculator.AnyImpl;
+import functional.lambda.apis.calculator.AnyImpl;
 
 import java.util.function.Consumer;
 import java.util.function.Function;

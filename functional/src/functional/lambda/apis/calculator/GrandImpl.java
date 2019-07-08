@@ -1,4 +1,4 @@
-package functional.lambda.apis.functional.lambda.apis.calculator;
+package functional.lambda.apis.calculator;
 
 public class GrandImpl implements GrandApi {
 
@@ -18,7 +18,7 @@ public class GrandImpl implements GrandApi {
             }
         },  "abc", 2);
         System.out.println(res);
-        AnyImpl anyImpl = new AnyImpl();
+        functional.lambda.apis.calculator.AnyImpl anyImpl = new functional.lambda.apis.calculator.AnyImpl();
         res = api.doSomething(anyImpl::doIt, "abc", 2);
         System.out.println(res);
 

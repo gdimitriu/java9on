@@ -1,6 +1,6 @@
-package functional.lambda.apis.functional.lambda.apis.calculator;
+package functional.lambda.apis.calculator;
 
-public class CalcImpl implements Calculator {
+public class CalcImpl implements functional.lambda.apis.calculator.Calculator {
     private int par1;
     private double par2;
     public CalcImpl(int par1, double par2) {

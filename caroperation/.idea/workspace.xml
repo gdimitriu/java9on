@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fdf83d9-a889-45fc-bbab-41bd1af4f014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caroperation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/Demo1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/factories/FactorySpeedModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/factories/FactoryTraffic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/factories/FactoryVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/interfaces/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/interfaces/SpeedModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/interfaces/TrafficUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/interfaces/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caroperations/interfaces/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/lambda/apis/functional/lambda/apis/calculator/AnyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/lambda/apis/functional/lambda/apis/calculator/CalcImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/lambda/apis/functional/lambda/apis/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/lambda/apis/functional/lambda/apis/calculator/GrandApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/lambda/apis/functional/lambda/apis/calculator/GrandImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/lambda/apis/functional/lambda/apis/calculator/lambda/GrandApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/lambda/apis/functional/lambda/apis/calculator/lambda/GrandImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/referencemethods/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/referencemethods/FoodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/referencemethods/Functionalconstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/streams/StreamExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functional/src/functional/streams/collections/MainTestsCollections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../functional/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../functional/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8fdf83d9-a889-45fc-bbab-41bd1af4f014" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -207,11 +177,18 @@
       <option name="presentableId" value="Default" />
       <updated>1562230556423</updated>
     </task>
+    <task id="LOCAL-00001" summary="examples from Java9 cookbook">
+      <created>1562327599744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562327599744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="411" y="13" width="1400" height="1000" extended-state="1" />
-    <editor active="true" />
+    <frame x="411" y="13" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -226,7 +203,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3298731" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14648212" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14648212" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -240,6 +217,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="examples from Java9 cookbook" />
+    <option name="LAST_COMMIT_MESSAGE" value="examples from Java9 cookbook" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/caroperations/interfaces/Car.java">
