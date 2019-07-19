@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ec0a684-b293-4fe4-abb9-5a161ce3c775" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/functional/streams/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/service.api/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/service.api/service.api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/service.api/service/api/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/service.impl/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/service.impl/service.impl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/service.impl/service/impl/SMSServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../caroperation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caroperation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/AnyImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/CalcImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/GrandApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/GrandImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/lambda/GrandApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/lambda/GrandImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/streams/StreamExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/streams/StreamExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/functional/streams/StreamExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
+            <state relative-caret-position="1394">
               <caret line="121" column="113" selection-start-line="121" selection-start-column="113" selection-end-line="121" selection-end-column="113" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -43,12 +43,8 @@
             <state relative-caret-position="68">
               <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
                 <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,9 +96,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="411" />
-    <option name="y" value="13" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="43" />
+    <option name="y" value="17" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -115,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,7 +127,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -147,25 +143,6 @@
               <item name="functional" type="58d84e3e:PackageViewProjectNode" />
               <item name="functional" type="616d4139:PackageViewModuleNode" />
               <item name="functional" type="1f31426a:PackageElementNode" />
-              <item name="lambda" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
-              <item name="functional" type="616d4139:PackageViewModuleNode" />
-              <item name="functional" type="1f31426a:PackageElementNode" />
-              <item name="lambda" type="1f31426a:PackageElementNode" />
-              <item name="apis" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
-              <item name="functional" type="616d4139:PackageViewModuleNode" />
-              <item name="functional" type="1f31426a:PackageElementNode" />
-              <item name="referencemethods" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
-              <item name="functional" type="616d4139:PackageViewModuleNode" />
-              <item name="functional" type="1f31426a:PackageElementNode" />
               <item name="streams" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
@@ -176,7 +153,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../chappy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -294,14 +271,20 @@
       <option name="project" value="LOCAL" />
       <updated>1562150645264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added functional examples">
+      <created>1562599786013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562599786013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -310,7 +293,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30985916" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30985916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -411,76 +394,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/CalcImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/AnyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/GrandApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/GrandImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-          <folding>
-            <element signature="e#627#628#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/lambda/GrandApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/lambda/GrandImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/CalcImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/AnyImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/GrandApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/GrandImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/lambda/GrandApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/lambda/GrandImpl.java" />
     <entry file="jar://C:/Program Files/Java/java-11-openjdk-11.0.3.7-1.windows.ojdkbuild.x86_64/lib/src.zip!/java.base/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -554,27 +474,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/streams/StreamExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="121" column="113" selection-start-line="121" selection-start-column="113" selection-end-line="121" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/functional/streams/Thing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/streams/StreamExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="121" column="113" selection-start-line="121" selection-start-column="113" selection-end-line="121" selection-end-column="113" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
