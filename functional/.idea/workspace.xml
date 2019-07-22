@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ec0a684-b293-4fe4-abb9-5a161ce3c775" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../modules/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/service.api/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/service.api/service.api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/service.api/service/api/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/service.impl/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/service.impl/service.impl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/service.impl/service/impl/SMSServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../caroperation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caroperation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/hello.client/hello.client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/hello.client/hello/client/HelloClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/hello.client/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/hello.helloapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/service.client/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/service.client/service.client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/service.client/service/client/ClientApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../modules/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../modules/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/src/service.api/service.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/service.api/service.api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/src/service.impl/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/service.impl/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/src/service.impl/service.impl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/service.impl/service.impl.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -283,6 +286,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
