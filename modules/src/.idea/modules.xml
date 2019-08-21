@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello.client/hello.client.iml" filepath="$PROJECT_DIR$/hello.client/hello.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello.helloapp/hello.helloapp.iml" filepath="$PROJECT_DIR$/hello.helloapp/hello.helloapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules.calculator/modules.calculator.iml" filepath="$PROJECT_DIR$/modules.calculator/modules.calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules.math/modules.math.iml" filepath="$PROJECT_DIR$/modules.math/modules.math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service.api/service.api.iml" filepath="$PROJECT_DIR$/service.api/service.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service.client/service.client.iml" filepath="$PROJECT_DIR$/service.client/service.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service.impl/service.impl.iml" filepath="$PROJECT_DIR$/service.impl/service.impl.iml" />
+    </modules>
+  </component>
+</project>

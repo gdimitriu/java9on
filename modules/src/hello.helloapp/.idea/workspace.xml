@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f281a01-af26-4f7d-9c85-a5548df7d2a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello.client/hello.client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello.client/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../service.client/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../service.client/service.client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../service.client/service/client/ClientApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../functional/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../functional/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service.api/service.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../service.api/service.api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service.impl/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../service.impl/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service.impl/service.impl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../service.impl/service.impl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="358" />
     <option name="y" value="13" />
     <option name="width" value="1400" />
@@ -98,17 +87,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="hello.helloapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello" type="9c53a853:ProjectViewModuleGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,8 +178,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="358" y="13" width="1400" height="1000" extended-state="1" />
-    <editor active="true" />
+    <frame x="358" y="13" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

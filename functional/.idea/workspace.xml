@@ -2,19 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ec0a684-b293-4fe4-abb9-5a161ce3c775" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../modules/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/hello.client/hello.client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/hello.client/hello/client/HelloClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/hello.client/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/hello.helloapp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/service.client/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/service.client/service.client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modules/src/service.client/service/client/ClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_postgresql_postgresql_42_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/src/functional/db/OperationsNewPostreSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/src/functional/db/OperationsPostreSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/src/functional/db/TestConnectionPostgreSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../modules/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../modules/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/src/hello.client/hello.client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/hello.client/hello.client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/src/hello.helloapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/hello.helloapp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/src/hello.helloapp/hello.helloapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/hello.helloapp/hello.helloapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/src/modules.calculator/modules.calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/modules.calculator/modules.calculator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../modules/src/service.api/service.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/service.api/service.api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../modules/src/service.impl/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/service.impl/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/src/service.client/service.client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/service.client/service.client.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../modules/src/service.impl/service.impl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/service.impl/service.impl.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/functional/streams/StreamExamples.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/src/functional/db/TestConnectionPostgreSQL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="121" column="113" selection-start-line="121" selection-start-column="113" selection-end-line="121" selection-end-column="113" />
+            <state relative-caret-position="289">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,13 +47,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/functional/streams/Thing.java">
+        <entry file="file://$PROJECT_DIR$/db/src/functional/db/OperationsPostreSQL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="317">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="21" selection-end-column="21" />
               <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/src/functional/db/OperationsNewPostreSQL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="188" column="60" selection-start-line="188" selection-start-column="60" selection-end-line="188" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,12 +113,15 @@
         <option value="$PROJECT_DIR$/src/functional/lambda/apis/calculator/lambda/GrandImpl.java" />
         <option value="$PROJECT_DIR$/src/functional/streams/Thing.java" />
         <option value="$PROJECT_DIR$/src/functional/streams/StreamExamples.java" />
+        <option value="$PROJECT_DIR$/db/src/functional/db/TestConnectionPostgreSQL.java" />
+        <option value="$PROJECT_DIR$/db/src/functional/db/OperationsPostreSQL.java" />
+        <option value="$PROJECT_DIR$/db/src/functional/db/OperationsNewPostreSQL.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="43" />
-    <option name="y" value="17" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="241" />
+    <option name="y" value="4" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -109,12 +129,26 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <showMembers PackagesPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
+              <item name="db" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
+              <item name="functional" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,48 +158,65 @@
             </path>
             <path>
               <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
-              <item name="functional" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
-              <item name="functional" type="616d4139:PackageViewModuleNode" />
-              <item name="functional" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
-              <item name="functional" type="616d4139:PackageViewModuleNode" />
-              <item name="functional" type="1f31426a:PackageElementNode" />
-              <item name="streams" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="functional" />
       <recent name="functional.interfaces" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="functional.db" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -180,52 +231,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamExamples">
-    <configuration name="FoodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.referencemethods.FoodTest" />
-      <module name="functional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="functional.referencemethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GrandImpl (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.lambda.apis.functional.lambda.apis.calculator.lambda.GrandImpl" />
-      <module name="functional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="functional.lambda.apis.functional.lambda.apis.calculator.lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GrandImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.lambda.apis.functional.lambda.apis.calculator.GrandImpl" />
-      <module name="functional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="functional.lambda.apis.functional.lambda.apis.calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OperationsNewPostreSQL">
     <configuration name="MainTestsCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functional.streams.collections.MainTestsCollections" />
       <module name="functional" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="functional.streams.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationsNewPostreSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.db.OperationsNewPostreSQL" />
+      <module name="db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationsPostreSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.db.OperationsPostreSQL" />
+      <module name="db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional.db.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,13 +284,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestConnectionPostgreSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.db.TestConnectionPostgreSQL" />
+      <module name="db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperationsNewPostreSQL" />
+        <item itemvalue="Application.OperationsPostreSQL" />
+        <item itemvalue="Application.TestConnectionPostgreSQL" />
         <item itemvalue="Application.StreamExamples" />
         <item itemvalue="Application.MainTestsCollections" />
-        <item itemvalue="Application.GrandImpl (1)" />
-        <item itemvalue="Application.GrandImpl" />
-        <item itemvalue="Application.FoodTest" />
       </list>
     </recent_temporary>
   </component>
@@ -285,10 +336,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,7 +348,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30985916" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30985916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -319,6 +370,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added functional examples" />
     <option name="LAST_COMMIT_MESSAGE" value="added functional examples" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/functional/interfaces/SpeedModel.java" />
@@ -480,7 +535,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/functional/streams/StreamExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
+        <state relative-caret-position="1096">
           <caret line="121" column="113" selection-start-line="121" selection-start-column="113" selection-end-line="121" selection-end-column="113" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -495,6 +550,36 @@
           <folding>
             <element signature="e#161#162#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/src/functional/db/TestConnectionPostgreSQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/src/functional/db/OperationsPostreSQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/src/functional/db/OperationsNewPostreSQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="188" column="60" selection-start-line="188" selection-start-column="60" selection-end-line="188" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -551,7 +636,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>functional</last-edited>
+          <last-edited>db</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -576,6 +661,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>org.postgresql:postgresql:42.2.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
