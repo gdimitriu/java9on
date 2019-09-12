@@ -3,10 +3,10 @@ package functional.multithread.threads;
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-public class ConcurentCollectionsDemos {
+public class ConcurentCollectionsListDemos {
 
     public static void main(String...args) {
-        ConcurentCollectionsDemos demo = new ConcurentCollectionsDemos();
+        ConcurentCollectionsListDemos demo = new ConcurentCollectionsListDemos();
         demo.testList();
     }
 
