@@ -1,4 +1,4 @@
-package wicketCharts;
+package wicketcharts;
 
 public class FallOfWicket {
     private Double over;

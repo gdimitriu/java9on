@@ -1,4 +1,4 @@
-package storeCharts;
+package storecharts;
 
 public class StoreVisit {
     private Integer hour;

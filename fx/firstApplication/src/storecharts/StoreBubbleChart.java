@@ -1,4 +1,4 @@
-package storeCharts;
+package storecharts;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -11,7 +11,6 @@ import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
