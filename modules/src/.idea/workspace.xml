@@ -2,20 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af2125e7-40ca-48e0-943c-8ccb632ba79a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/AverageSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/Demo1ForkJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/DemoSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/DemoSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/DemoSubscriptionSuscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/FactorySpeedModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/FactoryTraffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/FactoryVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/TrafficUnitWrapper1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/api/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/api/DateLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/api/SpeedModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/api/TrafficUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/api/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functional/src/functional/multithread/forkjoin/api/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fx/firstApplication/src/webbrowser/BrowserDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../caroperation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../caroperation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functional/.idea/functional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../functional/.idea/functional.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../functional/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../functional/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.client/hello.client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello.client/hello.client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.helloapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello.helloapp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.helloapp/hello.helloapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello.helloapp/hello.helloapp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules.calculator/modules.calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules.calculator/modules.calculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.api/service.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service.api/service.api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.client/service.client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service.client/service.client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.impl/service.impl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service.impl/service.impl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functional/src/functional/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../functional/src/functional/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +31,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service.api/module-info.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service.impl/module-info.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -41,40 +58,10 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="src" type="58d84e3e:PackageViewProjectNode" />
-              <item name="hello" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="src" type="58d84e3e:PackageViewProjectNode" />
-              <item name="hello" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="hello.client" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="src" type="58d84e3e:PackageViewProjectNode" />
-              <item name="hello" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="hello.helloapp" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="src" type="58d84e3e:PackageViewProjectNode" />
-              <item name="modules" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="src" type="58d84e3e:PackageViewProjectNode" />
-              <item name="service" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,11 +83,72 @@
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="hello.client" type="462c0819:PsiDirectoryNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="hello.helloapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="hello.helloapp" type="462c0819:PsiDirectoryNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="hello.helloapp" type="462c0819:PsiDirectoryNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+              <item name="helloapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="modules" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="service" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="service" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="service.client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="service" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="service.impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src" type="58d84e3e:PackageViewProjectNode" />
+              <item name="service" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="src" type="58d84e3e:PackageViewProjectNode" />
+              <item name="service" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="service.api" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="src" type="58d84e3e:PackageViewProjectNode" />
+              <item name="service" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="service.client" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="src" type="58d84e3e:PackageViewProjectNode" />
+              <item name="service" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="service.impl" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -111,8 +159,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/service.impl" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -143,17 +191,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -161,18 +207,39 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello.client/hello.client.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.client/module-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules.calculator/module-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules.math/module-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.client/module-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.api/module-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.impl/module-info.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
@@ -214,6 +281,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -225,7 +293,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>service.impl</last-edited>
+          <last-edited>calculator|modules</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ec0a684-b293-4fe4-abb9-5a161ce3c775" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/functional/db/BlobOperationsPostgreSQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/functional/db/StorageProceduresPostreSQL.java" afterDir="false" />
+    <list default="true" id="7ec0a684-b293-4fe4-abb9-5a161ce3c775" name="Default Changelist" comment="added concurency examples">
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/AverageSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/Demo1ForkJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscriptionSuscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/FactorySpeedModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/FactoryTraffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/FactoryVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/TrafficUnitWrapper1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/api/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/api/DateLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/api/SpeedModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/api/TrafficUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/api/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/multithread/forkjoin/api/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caroperation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caroperation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/functional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/functional.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modules/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/src/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,24 +36,12 @@
     <favorites_list name="functional" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/src/functional/db/BlobOperationsPostgreSQL.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="83" column="5" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="83" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db/src/functional/db/StorageProceduresPostreSQL.java">
+        <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/AverageSpeed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="130" column="60" lean-forward="true" selection-start-line="130" selection-start-column="21" selection-end-line="130" selection-end-column="60" />
+            <state relative-caret-position="476">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,13 +50,74 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/src/functional/db/OperationsNewPostreSQL.java">
+        <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscriber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="94" column="5" lean-forward="true" selection-start-line="67" selection-start-column="2" selection-end-line="94" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+              <folding>
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscriptionSuscriber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscription.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/Demo1ForkJoin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/FactoryTraffic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-482">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/FactoryVehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-125">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -73,14 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SpeedModel.java" />
-        <option value="$PROJECT_DIR$/src/functional/interfaces/SpeedModel.java" />
-        <option value="$PROJECT_DIR$/src/functional/interfaces/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/functional/interfaces/TestFunctionalInterface.java" />
-        <option value="$PROJECT_DIR$/functional/lambda/TestLambdas.java" />
-        <option value="$PROJECT_DIR$/functional/lambda/DemoThis.java" />
-        <option value="$PROJECT_DIR$/functional/lambda/TestFunctionalInterfacesConvertedToLambda.java" />
-        <option value="$PROJECT_DIR$/src/functional/referencemethods/Functionalconstructor.java" />
         <option value="$PROJECT_DIR$/src/functional/referencemethods/FoodTest.java" />
         <option value="$PROJECT_DIR$/src/functional/referencemethods/Food.java" />
         <option value="$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/CalcImpl.java" />
@@ -105,25 +162,50 @@
         <option value="$PROJECT_DIR$/db/src/functional/db/OperationsNewPostreSQL.java" />
         <option value="$PROJECT_DIR$/db/src/functional/db/BlobOperationsPostgreSQL.java" />
         <option value="$PROJECT_DIR$/db/src/functional/db/StorageProceduresPostreSQL.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/threads/LaunchingThreadsDemo.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/threads/SynchronizationThreadsDemo.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/threads/SpecialCases.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/threads/MutableInMutableConcurent.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/threads/ConcurentCollectionsDemos.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/threads/ConcurentCollectionsListDemos.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/threads/ConcurentCollectionsSetDemo.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/threads/ConcurentQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/executors/ExecutorsDemo1.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/executors/ExecutorsDemo2.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/ExecutorsDemo2.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/RealLifeExample.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/Result.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/CallableWorker.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/CallableWorkerImpl.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/RealLifeExampleMain.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/TrafficUnitWraper.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/FactoryVehicle.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/api/TrafficUnit.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/TrafficUnitWrapper.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/FactoryTraffic.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/FactorySpeedModel.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/Demo1ForkJoin.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/AverageSpeed.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscription.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscriptionSuscriber.java" />
+        <option value="$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscriber.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="189" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <showMembers PackagesPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +221,41 @@
             <path>
               <item name="functional" type="b2602c69:ProjectViewProjectNode" />
               <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="multithread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="multithread" type="462c0819:PsiDirectoryNode" />
+              <item name="threads" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="functional" type="b2602c69:ProjectViewProjectNode" />
@@ -149,6 +265,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -158,7 +275,23 @@
             </path>
             <path>
               <item name="functional" type="58d84e3e:PackageViewProjectNode" />
+              <item name="db" type="616d4139:PackageViewModuleNode" />
+              <item name="functional" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
               <item name="functional" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
+              <item name="functional" type="616d4139:PackageViewModuleNode" />
+              <item name="functional" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="functional" type="58d84e3e:PackageViewProjectNode" />
+              <item name="functional" type="616d4139:PackageViewModuleNode" />
+              <item name="functional" type="1f31426a:PackageElementNode" />
+              <item name="multithread" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -172,14 +305,15 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/functional" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring_learning/boot/demo" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="functional.multithread.executors.realLifeExample" />
       <recent name="functional" />
       <recent name="functional.interfaces" />
     </key>
@@ -187,6 +321,8 @@
       <recent name="functional.db" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my-git\java9on\functional\src\functional\multithread\forkjoin" />
+      <recent name="D:\my-git\java9on\functional\src\functional\multithread\forkjoin\api" />
       <recent name="D:\my-git\java9on\functional\db" />
     </key>
   </component>
@@ -202,14 +338,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StorageProceduresPostreSQL">
-    <configuration name="BlobOperationsPostgreSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.db.BlobOperationsPostgreSQL" />
-      <module name="db" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
+  <component name="RunManager" selected="Application.DemoSubscriptionSuscriber">
+    <configuration name="ConcurentQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.multithread.threads.ConcurentQueueDemo" />
+      <module name="functional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.db.*" />
+          <option name="PATTERN" value="functional.multithread.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +352,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationsNewPostreSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.db.OperationsNewPostreSQL" />
-      <module name="db" />
+    <configuration name="Demo1ForkJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.multithread.forkjoin.Demo1ForkJoin" />
+      <module name="functional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.db.*" />
+          <option name="PATTERN" value="functional.multithread.forkjoin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +365,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationsPostreSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.db.OperationsPostreSQL" />
-      <module name="db" />
+    <configuration name="DemoSubscriptionSuscriber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.multithread.forkjoin.DemoSubscriptionSuscriber" />
+      <module name="functional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.db.*" />
+          <option name="PATTERN" value="functional.multithread.forkjoin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +378,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StorageProceduresPostreSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.db.StorageProceduresPostreSQL" />
-      <module name="db" />
+    <configuration name="ExecutorsDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.multithread.executors.ExecutorsDemo1" />
+      <module name="functional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.db.*" />
+          <option name="PATTERN" value="functional.multithread.executors.realLifeExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +391,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestConnectionPostgreSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.db.TestConnectionPostgreSQL" />
-      <module name="db" />
+    <configuration name="RealLifeExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.multithread.executors.realLifeExample.RealLifeExampleMain" />
+      <module name="functional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.db.*" />
+          <option name="PATTERN" value="functional.multithread.executors.realLifeExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +405,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BlobOperationsPostgreSQL" />
-      <item itemvalue="Application.OperationsNewPostreSQL" />
-      <item itemvalue="Application.OperationsPostreSQL" />
-      <item itemvalue="Application.TestConnectionPostgreSQL" />
-      <item itemvalue="Application.StorageProceduresPostreSQL" />
+      <item itemvalue="Application.ConcurentQueueDemo" />
+      <item itemvalue="Application.ExecutorsDemo1" />
+      <item itemvalue="Application.RealLifeExampleMain" />
+      <item itemvalue="Application.Demo1ForkJoin" />
+      <item itemvalue="Application.DemoSubscriptionSuscriber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StorageProceduresPostreSQL" />
-        <item itemvalue="Application.BlobOperationsPostgreSQL" />
-        <item itemvalue="Application.OperationsNewPostreSQL" />
-        <item itemvalue="Application.OperationsPostreSQL" />
-        <item itemvalue="Application.TestConnectionPostgreSQL" />
+        <item itemvalue="Application.DemoSubscriptionSuscriber" />
+        <item itemvalue="Application.Demo1ForkJoin" />
+        <item itemvalue="Application.RealLifeExampleMain" />
+        <item itemvalue="Application.ExecutorsDemo1" />
+        <item itemvalue="Application.ConcurentQueueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -311,13 +446,34 @@
       <option name="project" value="LOCAL" />
       <updated>1562599786013</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added concurency examples">
+      <created>1568199179049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568199179049</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added concurency examples">
+      <created>1568288031808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568288031808</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added concurency examples">
+      <created>1571672689620</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571672689620</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49921507" visible="true" weight="0.13539445" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49921507" visible="true" weight="0.17270789" />
       <window_info id="Structure" order="1" sideWeight="0.50078493" side_tool="true" weight="0.13539445" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,90 +503,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added functional examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="added functional examples" />
+    <MESSAGE value="added concurency examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="added concurency examples" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/functional/interfaces/SpeedModel.java" />
-    <entry file="file://$PROJECT_DIR$/src/functional/interfaces/Vehicle.java" />
-    <entry file="file://$PROJECT_DIR$/src/functional/interfaces/TestFunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="45" column="65" lean-forward="true" selection-start-line="45" selection-start-column="65" selection-end-line="45" selection-end-column="65" />
-          <folding>
-            <element signature="e#1372#1373#0" expanded="true" />
-            <element signature="e#1431#1432#0" expanded="true" />
-            <element signature="e#1872#1873#0" expanded="true" />
-            <element signature="e#1916#1917#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/lambda/TestLambdas.java" />
-    <entry file="jar://C:/Program Files/Java/java-11-openjdk-11.0.3.7-1.windows.ojdkbuild.x86_64/lib/src.zip!/java.base/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/lambda/DemoThis.java" />
-    <entry file="file://$PROJECT_DIR$/functional/lambda/TestFunctionalInterfacesConvertedToLambda.java" />
-    <entry file="jar://C:/Program Files/Java/java-11-openjdk-11.0.3.7-1.windows.ojdkbuild.x86_64/lib/src.zip!/java.base/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/lambda/TestFunctionalInterfacesConvertedToLambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-419">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/referencemethods/Functionalconstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/referencemethods/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/referencemethods/FoodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/CalcImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/Calculator.java" />
     <entry file="file://$PROJECT_DIR$/src/functional/lambda/apis/functional/lambda/apis/calculator/AnyImpl.java" />
@@ -559,10 +639,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/src/functional/db/OperationsNewPostreSQL.java">
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/threads/SpecialCases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="94" column="5" lean-forward="true" selection-start-line="67" selection-start-column="2" selection-end-line="94" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/threads/SynchronizationThreadsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="40" column="70" selection-start-line="40" selection-start-column="70" selection-end-line="40" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/threads/MutableInMutableConcurent.java" />
+    <entry file="file://$PROJECT_DIR$/db/src/functional/db/StorageProceduresPostreSQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -571,18 +672,241 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/src/functional/db/BlobOperationsPostgreSQL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="83" column="5" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="83" selection-end-column="5" />
+        <state relative-caret-position="1105">
+          <caret line="65" column="70" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/src/functional/db/StorageProceduresPostreSQL.java">
+    <entry file="file://$PROJECT_DIR$/../modules/src/hello.client/module-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/threads/ConcurentQueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="130" column="60" lean-forward="true" selection-start-line="130" selection-start-column="21" selection-end-line="130" selection-end-column="60" />
+        <state relative-caret-position="816">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/threads/ConcurentCollectionsListDemos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/src/functional/db/OperationsNewPostreSQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1479">
+          <caret line="78" column="45" lean-forward="true" selection-start-line="78" selection-start-column="45" selection-end-line="78" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/threads/LaunchingThreadsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="98" column="2" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/threads/ConcurentCollectionsSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2941">
+          <caret line="173" column="51" selection-start-line="173" selection-start-column="30" selection-end-line="173" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/executors/ExecutorsDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1507">
+          <caret line="103" column="38" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/CallableWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/CallableWorkerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/executors/realLifeExample/RealLifeExampleMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="64" column="42" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/api/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/api/SpeedModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/api/TrafficUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/api/DateLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/TrafficUnitWrapper1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/FactoryVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/FactorySpeedModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/FactoryTraffic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-482">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/Demo1ForkJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscriptionSuscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/DemoSubscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/multithread/forkjoin/AverageSpeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -641,12 +965,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>db</last-edited>
+          <last-edited>functional</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
